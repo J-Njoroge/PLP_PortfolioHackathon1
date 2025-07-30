@@ -5,9 +5,6 @@
 A clean, responsive personal portfolio built with HTML and CSS, showcasing my skills, projects, and background as a data enthusiast and aspiring software engineer.
 Created during the PLP Academy Hackathon, just plain vanilla HTML and CSS.
 
-# 🔗 Live Demo
-View the Live Site
-
 ---
 
 ## 📌 Features
@@ -90,6 +87,11 @@ Smooth transitions using CSS custom properties
 
 ## 🤝 Contributing
 Feel free to fork this project, make it your own, and submit pull requests.
+
+---
+
+# 🔗 Live Demo
+View the Live Site: https://plp-portfolio-hackathon1.vercel.app/
 
 ---
 
