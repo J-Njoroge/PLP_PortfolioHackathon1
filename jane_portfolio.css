@@ -429,7 +429,7 @@ html {
     font-size: 0.95rem;
 }
 
-/* Animation for cards on scroll (CSS-only approach) */
+/* Animation for cards on scroll */
 .card,
 .project-card,
 .skill-item {
